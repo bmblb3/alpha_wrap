@@ -1,0 +1,8 @@
+/.devenv
+/bin
+/sweep_out
+
+*.vtu
+*.stl
+*.png
+*.off
